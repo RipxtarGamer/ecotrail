@@ -1,4 +1,4 @@
-<?php include 'head.php'; ?>
+<?php include 'header.php'; ?>
 
 <!-- Hero Section with Background Image -->
 <style>
