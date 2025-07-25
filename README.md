@@ -6,7 +6,7 @@
 
 ## 🌟 Key Features
 
-### 🔔 Real-Time Alert System
+### 🔔 Timely Alert System
 - Travelers and locals can submit alerts (e.g. roadblocks, strikes, weather conditions, scams).
 - Alerts include title, location, duration, type, severity, and alternative routes.
 - Admin moderation ensures verified and authentic information.
