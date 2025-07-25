@@ -1,5 +1,5 @@
 <?php
-if (session_status() === PHP_SESSION_NONE) {
+if (session_status() === PHP_SESSION_NNE) {
     session_start();
 }
 require_once "../classes/connect.php";
